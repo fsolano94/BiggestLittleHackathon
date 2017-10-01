@@ -60,3 +60,15 @@ C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\b
 C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
 C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\obj\Debug\Application.dll
 C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\obj\Debug\Application.pdb
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\System.Net.Http.Extensions.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\System.Net.Http.Primitives.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\unirest-net.dll
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.xml
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\System.Net.Http.Extensions.xml
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\bin\System.Net.Http.Primitives.xml
+C:\Users\fsola\Documents\GitHub\BiggestLittleHackathon\Application\Application\obj\Debug\Application.csproj.App.config

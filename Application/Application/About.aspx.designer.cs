@@ -22,13 +22,31 @@ namespace Application {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl H2;
         
         /// <summary>
-        /// UserInput control.
+        /// LoginEmailAddress control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox UserInput;
+        protected global::System.Web.UI.WebControls.TextBox LoginEmailAddress;
+        
+        /// <summary>
+        /// LoginPassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox LoginPassword;
+        
+        /// <summary>
+        /// URLAddress control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox URLAddress;
         
         /// <summary>
         /// Button1 control.
@@ -47,6 +65,42 @@ namespace Application {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl URLDisplayMessage;
+        
+        /// <summary>
+        /// EmailDisplayMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl EmailDisplayMessage;
+        
+        /// <summary>
+        /// PasswordDisplayMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl PasswordDisplayMessage;
+        
+        /// <summary>
+        /// Redirecting control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl Redirecting;
+        
+        /// <summary>
+        /// ResponseStatusDescription control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl ResponseStatusDescription;
         
         /// <summary>
         /// Calendar1 control.
